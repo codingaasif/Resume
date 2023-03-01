@@ -1,2 +1,2 @@
 # Resume
-I have created my Resume
+I have created my own Resume
